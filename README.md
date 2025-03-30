@@ -1,6 +1,6 @@
 <h1>Hi 👋🏾, I'm Marian, known as well as Astro! <br/><a href="https://github.com/AstrointheCloud">                                                                                                                                                                            
 
-  <a href="https://www.linkedin.com/in/mariana-lugo/"> My passion is to becoming a Cloud Security Engineer and here are some of the projects I have done.</a>  <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg"> </a></h1>
+  <a href="https://www.linkedin.com/in/mariana-lugo/"> My passion is to become a Cloud Security Engineer and here are some of the projects I have done.</a>  <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg"> </a></h1>
 
 <h2> ☁️💻 Cloud Engineering Projects:</h2>
 
