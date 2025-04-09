@@ -1,10 +1,10 @@
 <h1>Hi 👋🏾, I'm Marian, known as well as Astro! <br/><a href="https://github.com/AstrointheCloud">                                                                                                                                                                            
 
-  <a href="https://www.linkedin.com/in/mariana-lugo/"> My passion is to become a Cloud Security Engineer and here are some of the projects I have done.</a>  <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg"> </a></h1>
+  <a href="https://www.linkedin.com/in/mariana-lugo/"> My passion is to become a Cloud Security Engineer, and here are some of the projects I have done.</a>  <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg"> </a></h1>
 
 <h2> ☁️💻 Cloud Engineering Projects:</h2>
 
-  - <b>Hosting a Static Website</b>
+  - <b>Hosting a Static Website</b> (https://youtu.be/yknp0-ZD1UM)
   - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
