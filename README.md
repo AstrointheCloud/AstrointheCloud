@@ -4,7 +4,7 @@
 
 <h2> ☁️💻 Cloud Engineering Projects:</h2>
 
--[<b>Hosting a Static Website in S3</b>]
+-<b>Hosting a Static Website in S3</b>
   - [<b>Hosting a Static Website</b>](https://youtu.be/yknp0-ZD1UM)
   - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
