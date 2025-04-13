@@ -5,7 +5,7 @@
 <h2> ☁️💻 Cloud Engineering Projects:</h2>
 
 -<b>Hosting a Static Website in S3 AWS</b>
-  - [<b>Hosting a Static Website</b>](https://youtu.be/yknp0-ZD1UM)
+  - [<b>Hosting a Static Website</b>](https://github.com/AstrointheCloud/Hosting-a-website-in-S3))
   - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
