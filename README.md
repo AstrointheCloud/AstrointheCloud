@@ -9,7 +9,7 @@ Thanks for stopping by my little corner of the cloud — stay tuned, the Astro a
                                                                                                                                         
 
   <a href="https://www.linkedin.com/in/mariana-lugo/"> 
-🌟.</a>  <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg"> </a></h1>
+</a>  <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg"> </a></h1>
 
 <h2> ☁️💻 Cloud Engineering Projects:</h2>
 
