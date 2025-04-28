@@ -1,11 +1,15 @@
-<h1>Hi 👋🏾, I'm Marian, also known as Astro! <br/><a href="https://github.com/AstrointheCloud">                                                                                                                                                                            
+<h1>🌟 Hey hey! I'm Marian — aka Astro in the Cloud 🚀☁️ <br/><a href="https://github.com/AstrointheCloud">                        
+
+I'm an IT enthusiast turning my love for tech, creativity, and cloud magic into real-world projects!
+I'm on a mission to become a Cloud Security Engineer — blending cybersecurity, cloud architecture, and a little bit of nerdy adventure along the way. 🎮✨
+
+Here you'll find the projects I'm building (and some still in the making!) as I dive deeper into AWS, Linux, and cloud security.
+
+Thanks for stopping by my little corner of the cloud — stay tuned, the Astro adventure is just getting started!🌟🚀🌌
+                                                                                                                                        
 
   <a href="https://www.linkedin.com/in/mariana-lugo/"> 
-  
-I'm an IT professional and aspiring Cloud Security Engineer, passionate about building secure, scalable, and creative cloud solutions.
-Here you'll find some of the projects I'm working on as I continue learning, growing, and expanding my skills in AWS, Linux, cybersecurity and soon enough CI/CD.
-
-Thanks for stopping by — stay tuned, more projects are coming soon! 🌟.</a>  <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg"> </a></h1>
+🌟.</a>  <a href="https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg"> </a></h1>
 
 <h2> ☁️💻 Cloud Engineering Projects:</h2>
 
