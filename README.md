@@ -19,8 +19,6 @@ Thanks for stopping by my little corner of the cloud — stay tuned, the Astro a
 -<b>Cloud Security with AWS IAM AWS</b>
   - [<b>Using IAM</b>](https://github.com/AstrointheCloud/Cloud-Security-with-AWS-IAM)
   - 
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 - <h2> ⚔️🛡️💻 Cybersecurity Projects:</h2>
 
