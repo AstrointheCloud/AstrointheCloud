@@ -1,9 +1,12 @@
 <h1>🌟 Hey hey! I'm Marian — aka Astro in the Cloud 🚀☁️ <br/><a href="https://github.com/AstrointheCloud">                        
 
+
 I'm an IT enthusiast turning my love for tech, creativity, and cloud magic into real-world projects!
 I'm on a mission to become a Cloud Security Engineer — blending cybersecurity, cloud architecture, and a little bit of nerdy adventure along the way. 🎮✨
 
+
 Here you'll find the projects I'm building (and some still in the making!) as I dive deeper into AWS, Linux, and cloud security.
+
 
 Thanks for stopping by my little corner of the cloud — stay tuned, the Astro adventure is just getting started!🌟🚀🌌
                                                                                                                                         
