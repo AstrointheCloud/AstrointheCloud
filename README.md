@@ -60,7 +60,7 @@ Thanks for stopping by my little corner of the cloud — stay tuned, the Astro a
 ## ⚡ Beyond the Terminal
 When I'm away from the command line or data center floor, you can find me:
 * **🎧 Mixing Beats:** Spinning tracks and diving deep into the worlds of **...& EDM**.
-* **🎮 Gaming & Anime:** Immersed in video game worlds or rewatching the **Fate/Stay Night** series 💜.
+* **🎮 Gaming & Anime:** Immersed in video game worlds or rewatching the **Fate Stay Night**💜.
 * **📚 Thriller Novels:** Turning pages on anything psychological that keeps me guessing until the end.
 
 ---
