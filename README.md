@@ -1,4 +1,4 @@
-#                                           🌟 Hey hey! I'm  Astro 🚀☁️
+# 🌟 Hey hey! I'm  Astro 🚀☁️
 
 
 I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** — blending cybersecurity, cloud architecture, and a little bit of nerdy adventure along the way! 🎮✨ Whether I'm managing massive physical hardware infrastructure by day or building private, local AI-powered monitoring tools by night, I focus on engineering systems that are secure, automated, and built to run 24/7.
