@@ -53,7 +53,7 @@ Thanks for stopping by my little corner of the cloud — stay tuned, the Astro a
   
 * ⏳ **PCAP (Certified Associate in Python Programming)**
 * ⏳ **GCP Associate Cloud Engineer**
-* ⏳ **Google Cloud Generative AI Engineer / Fundamentals**
+* ⏳ **Google Generative AI Leader**
 
 ---
 
