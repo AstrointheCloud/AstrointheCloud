@@ -1,7 +1,5 @@
 # 🌟 Hey hey! I'm Marian — aka Astro in the Cloud 🚀☁️
 
-> *Engineering the future of AI Cloud Security Architecture: where secure cloud infrastructure meets Generative AI.*
-
 I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** — blending cybersecurity, cloud architecture, and a little bit of nerdy adventure along the way! 🎮✨ Whether I'm managing massive physical hardware infrastructure by day or building private, local AI-powered monitoring tools by night, I focus on engineering systems that are secure, automated, and built to run 24/7.
 
 Thanks for stopping by my little corner of the cloud — stay tuned, the Astro adventure is just getting started! 🌌
