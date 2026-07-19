@@ -1,17 +1,15 @@
-# 🌟 Hey hey! I'm  Astro 🚀☁️
+# Hey hey! I'm  Astro ✨
 
 
-I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** — blending cybersecurity, cloud architecture, and a little bit of nerdy adventure along the way! 🎮✨ Whether I'm managing massive physical hardware infrastructure by day or building private, local AI-powered monitoring tools by night, I focus on engineering systems that are secure, automated, and built to run 24/7.
-
-Thanks for stopping by my little corner of the cloud — stay tuned, the Astro adventure is just getting started! 🌌
+I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** — blending cybersecurity, cloud architecture, and a little bit of nerdy adventure along the way! Whether I'm managing massive physical hardware infrastructure by day or building projects at night, I focus on engineering systems that are secure, automated, and built to run 24/7.
 
 ---
 
-## 🚀 The Mission Control (What I Do)
+## The Mission Control (What I Do)
 
 | **Day Job** | **The Big Goal** | **Current Engineering Project** |
 | :--- | :--- | :--- |
-| **Data Center Technician II**<br>*Operating large-scale infrastructure & hardware.* | **AI Cloud Security Architect**<br>*Blending secure cloud design, defense, and Gen AI.* | **Architecting Metamorph & Anomaly**<br>*Building AI-powered local infrastructure & monitoring.* |
+| **Data Center Technician II**<br>*Operating large-scale infrastructure & hardware.* | **AI Cloud Security Architect**<br>*Blending secure cloud design, defense, and Gen AI.* | **Architecting Cerberus**<br> |
 
 ---
 
@@ -27,19 +25,19 @@ Thanks for stopping by my little corner of the cloud — stay tuned, the Astro a
 
 ## 📁 Projects & Lab Environments
 
-### Intelligent Systems & Automation (Gen AI)
+ ### Intelligent Systems & Automation (Gen AI)
 *  **[Metamorph](https://github.com/AstrointheCloud/Metamorph)** — Exploring local AI models (Ollama, n8n) for intelligent infrastructure assistance, log management, and automation.
 *  **[Oribot](https://github.com/AstrointheCloud/Oribot)** — Custom automated bot/assistant architecture for internal workflows and orchestration.
 
-###  Cybersecurity & Cloud Infrastructure
-*  **[Astro Sentinel](https://github.com/AstrointheCloud/Astro-Sentinel)** — An active security and monitoring tool focused on endpoint defense, integrity verification, and system security.
+  ###  Cybersecurity & Cloud Infrastructure
+*  **[Cerberus](https://github.com/AstrointheCloud/Astro-Sentinel)** — An active security and monitoring tool focused on endpoint defense, integrity verification, and system security.
 *  **[Hosting a Static Website in AWS S3](https://github.com/AstrointheCloud/Hosting-a-website-in-S3)** — Implementing scalable web hosting using AWS storage buckets.
 *  **[Cloud Security with AWS IAM](https://github.com/AstrointheCloud/Cloud-Security-with-AWS-IAM)** — Managing identity, fine-grained access control, and least-privilege policies.
 
-### 💼 Practical Applications & Integration
-* **[Alfa Anónimo](https://github.com/AstrointheCloud/Alfa-Anonimo)** — A custom Telegram integration platform designed to automate the sale and distribution of personal and community safety training courses across social media networks, featuring automated self-answers.
+ ### Practical Applications & Integration
+* **[Alfa Anonimo](https://github.com/AstrointheCloud/Alfa-Anonimo)** — A custom Telegram integration platform designed to automate the sale and distribution of personal and community safety training courses across social media networks, featuring automated self-answers.
 
-### 🎮 Creative & Development
+### Creative & Development
 *  **[Retro-Game Rhapsody](https://github.com/AstrointheCloud/Retro-Game-Rhapsody)** — A creative fusion project blending software logic, gaming nostalgia, and dynamic experiences.
 
 ---
