@@ -17,30 +17,30 @@ Thanks for stopping by my little corner of the cloud — stay tuned, the Astro a
 
 ## 🛠️ Tech Stack & Ecosystem
 
-### ☁️ Cloud & Security
+* ### Cloud & Security
 `GCP (Google Cloud Platform)` · `AWS (S3, IAM)` · `Cybersecurity Fundamentals` · `Caddy` · `Tailscale` · `Networking & Routing`
 
-### 🤖 Systems & Automation
-`Linux (Debian/Ubuntu)` · `Python` *(In Progress)* · `Bash` · `Ollama` · `n8n` · `Git / GitHub`
+* ### Systems & Automation
+`Linux (Debian/Ubuntu)` · `Python` · `Bash` · `Ollama` · `n8n` · `Git / GitHub`
 
 ---
 
 ## 📁 Projects & Lab Environments
 
-### 🤖 Intelligent Systems & Automation (Gen AI)
-* 🛠️ **[Metamorph](https://github.com/AstrointheCloud/Metamorph)** — Exploring local AI models (Ollama, n8n) for intelligent infrastructure assistance, log management, and automation.
-* 🤖 **[Oribot](https://github.com/AstrointheCloud/Oribot)** — Custom automated bot/assistant architecture for internal workflows and orchestration.
+### Intelligent Systems & Automation (Gen AI)
+*  **[Metamorph](https://github.com/AstrointheCloud/Metamorph)** — Exploring local AI models (Ollama, n8n) for intelligent infrastructure assistance, log management, and automation.
+*  **[Oribot](https://github.com/AstrointheCloud/Oribot)** — Custom automated bot/assistant architecture for internal workflows and orchestration.
 
-### 🛡️ Cybersecurity & Cloud Infrastructure
-* 🛰️ **[Astro Sentinel](https://github.com/AstrointheCloud/Astro-Sentinel)** — An active security and monitoring tool focused on endpoint defense, integrity verification, and system security.
-* 🌐 **[Hosting a Static Website in AWS S3](https://github.com/AstrointheCloud/Hosting-a-website-in-S3)** — Implementing scalable web hosting using AWS storage buckets.
-* 🔐 **[Cloud Security with AWS IAM](https://github.com/AstrointheCloud/Cloud-Security-with-AWS-IAM)** — Managing identity, fine-grained access control, and least-privilege policies.
+###  Cybersecurity & Cloud Infrastructure
+*  **[Astro Sentinel](https://github.com/AstrointheCloud/Astro-Sentinel)** — An active security and monitoring tool focused on endpoint defense, integrity verification, and system security.
+*  **[Hosting a Static Website in AWS S3](https://github.com/AstrointheCloud/Hosting-a-website-in-S3)** — Implementing scalable web hosting using AWS storage buckets.
+*  **[Cloud Security with AWS IAM](https://github.com/AstrointheCloud/Cloud-Security-with-AWS-IAM)** — Managing identity, fine-grained access control, and least-privilege policies.
 
 ### 💼 Practical Applications & Integration
-* 💬 **[Alfa Anónimo](https://github.com/AstrointheCloud/Alfa-Anonimo)** — A custom Telegram integration platform designed to automate the sale and distribution of personal and community safety training courses across social media networks, featuring automated self-answers.
+* **[Alfa Anónimo](https://github.com/AstrointheCloud/Alfa-Anonimo)** — A custom Telegram integration platform designed to automate the sale and distribution of personal and community safety training courses across social media networks, featuring automated self-answers.
 
 ### 🎮 Creative & Development
-* 🕹️ **[Retro-Game Rhapsody](https://github.com/AstrointheCloud/Retro-Game-Rhapsody)** — A creative fusion project blending software logic, gaming nostalgia, and dynamic experiences.
+*  **[Retro-Game Rhapsody](https://github.com/AstrointheCloud/Retro-Game-Rhapsody)** — A creative fusion project blending software logic, gaming nostalgia, and dynamic experiences.
 
 ---
 
@@ -51,25 +51,17 @@ Thanks for stopping by my little corner of the cloud — stay tuned, the Astro a
 
 ## 📖 Actively Preparing for: 
   
-* ⏳ **PCAP (Certified Associate in Python Programming)**
-* ⏳ **GCP Associate Cloud Engineer**
-* ⏳ **Google Generative AI Leader**
-
----
-
-## ⚡ Beyond the Terminal
-When I'm away from the command line or data center floor, you can find me:
-* **🎧 Mixing Beats:** Spinning tracks and diving deep into the worlds of **...& EDM**.
-* **🎮 Gaming & Anime:** Immersed in video game worlds or rewatching **Fate Stay Night**💜.
-* **📚 Thriller Novels:** Turning pages on anything psychological that keeps me guessing until the end.
+*  **PCAP (Certified Associate in Python Programming)**
+*  **GCP Associate Cloud Engineer**
+*  **Google Generative AI Leader**
 
 ---
 
 ## 📫 Connect with Me
 
-🌐 **Website:** [astrointhecloud.com](https://astrointhecloud.com)  
-💼 **LinkedIn:** [Mariana Lugo](https://www.linkedin.com/in/mariana-lugo/)  
-📺 **YouTube:** [Astro in the Cloud](https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg)
+ **Website:** [astrointhecloud.com](https://astrointhecloud.com)  
+ **LinkedIn:** [Mariana Lugo](https://www.linkedin.com/in/mariana-lugo/)  
+ **YouTube:** [Astro in the Cloud](https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg)
 
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
