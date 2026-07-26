@@ -15,10 +15,10 @@ I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** 
 
 ## 🛠️ Tech Stack & Ecosystem
 
-* ### Cloud & Security
+* ### Cloud Architecture & Security
 `GCP (Google Cloud Platform)` · `AWS (S3, IAM)` · `Cybersecurity Fundamentals` · `Caddy` · `Tailscale` · `Networking & Routing`
 
-* ### Systems & Automation
+* ### Systems Scripting & Automation
 `Linux (Debian/Ubuntu)` · `Python` · `Bash` · `Ollama` · `n8n` · `Git / GitHub`
 
 ---
@@ -27,11 +27,14 @@ I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** 
 
  ### Intelligent Systems & Automation (Gen AI)
 *  **[Metamorph](https://github.com/AstrointheCloud/Metamorph)** — Exploring local AI models (Ollama, n8n) for intelligent infrastructure assistance, log management, and automation.
+  
 *  **[Oribot](https://github.com/AstrointheCloud/Oribot)** — Custom automated bot/assistant architecture for internal workflows and orchestration.
 
   ###  Cybersecurity & Cloud Infrastructure
 *  **[Cerberus](https://github.com/AstrointheCloud/Astro-Sentinel)** — An active security and monitoring tool focused on endpoint defense, integrity verification, and system security.
+  
 *  **[Hosting a Static Website in AWS S3](https://github.com/AstrointheCloud/Hosting-a-website-in-S3)** — Implementing scalable web hosting using AWS storage buckets.
+  
 *  **[Cloud Security with AWS IAM](https://github.com/AstrointheCloud/Cloud-Security-with-AWS-IAM)** — Managing identity, fine-grained access control, and least-privilege policies.
 
  ### Practical Applications & Integration
