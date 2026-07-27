@@ -8,7 +8,7 @@ I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** 
 
 | **Day Job** | **The Big Goal** | **Current Engineering Project** |
 | :--- | :--- | :--- |
-| **Data Center Technician II**<br>*Operating large-scale infrastructure & hardware.* | **AI Cloud Security Architect**<br>*Blending secure cloud design, defense, and Gen AI.* | **Architecting Cerberus**<br> |
+| **Data Center Technician II**<br>*Operating large-scale infrastructure & hardware.* | **AI Cloud Security Architect**<br>*Blending secure cloud design, defense, and Gen AI.* | **Architecting Morpheus**<br> |
 
 ---
 
