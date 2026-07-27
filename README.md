@@ -1,8 +1,7 @@
 # Hey hey! I'm  Astro ✨
 
 
-I am an IT enthusiast on a mission to become an **AI Cloud Security Architect**  blending cybersecurity, cloud architecture, and a little bit of nerdy adventure along the way! Whether I'm managing massive physical hardware infrastructure by day or building projects at night, I focus on engineering systems that are secure, automated, and built to run 24/7.
-
+I am an IT enthusiast on a mission to become an **AI Cloud Security Architect**  blending cybersecurity and cloud architecture.
 ---
 
 ## The Mission Control (What I Do)
