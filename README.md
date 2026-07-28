@@ -12,7 +12,7 @@ I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** 
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## Tech Stack & Ecosystem
 
 * ### Cloud Architecture & Security
 `GCP (Google Cloud Platform)` · `AWS (S3, IAM)` · `Cybersecurity Fundamentals` · `Caddy` · `Tailscale` · `Networking & Routing`
@@ -22,7 +22,7 @@ I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** 
 
 ---
 
-## 📁 Projects & Lab Environments
+## Projects & Lab Environments
 
  ### Intelligent Systems & Automation (Gen AI)
 *  **[Metamorph](https://github.com/AstrointheCloud/Metamorph)** — Exploring local AI models (Ollama, n8n) for intelligent infrastructure assistance, log management, and automation.
@@ -49,7 +49,7 @@ I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** 
 * 🎖️ **Google IT Support Professional** 
 * 🎖️ **AI Professional Certificate**
 
-## 📖 Actively Preparing for: 
+## Actively Preparing for: 
   
 *  **PCAP (Certified Associate in Python Programming)**
 *  **GCP Associate Cloud Engineer**
@@ -62,7 +62,3 @@ I am an IT enthusiast on a mission to become an **AI Cloud Security Architect** 
  **Website:** [astrointhecloud.com](https://astrointhecloud.com)  
  **LinkedIn:** [Mariana Lugo](https://www.linkedin.com/in/mariana-lugo/)  
  **YouTube:** [Astro in the Cloud](https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg)
-
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
