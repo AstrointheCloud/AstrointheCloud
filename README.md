@@ -29,7 +29,7 @@ I am an IT enthusiast with a goal of becoming an AI Cloud Security Architect. Tr
 *  **[Oribot](https://github.com/AstrointheCloud/Oribot)** — Custom automated bot/assistant architecture for internal workflows and orchestration.
 
   ###  Cybersecurity & Cloud Infrastructure
-*  **[Cerberus](https://github.com/AstrointheCloud/Astro-Sentinel)** — An active security and monitoring tool focused on endpoint defense, integrity verification, and system security.
+*  **[Morpheus](https://github.com/AstrointheCloud/Astro-Sentinel)** — An active security and monitoring tool focused on endpoint defense, integrity verification, and system security.
   
 *  **[Hosting a Static Website in AWS S3](https://github.com/AstrointheCloud/Hosting-a-website-in-S3)** — Implementing scalable web hosting using AWS storage buckets.
   
