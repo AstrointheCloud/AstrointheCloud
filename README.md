@@ -35,6 +35,8 @@ I am an IT enthusiast with a goal of becoming an AI Cloud Security Architect. Tr
   
 *  **[Cloud Security with AWS IAM](https://github.com/AstrointheCloud/Cloud-Security-with-AWS-IAM)** — Managing identity, fine-grained access control, and least-privilege policies.
 
+* **[Cyber Autopsy to an infected computer](https://github.com/AstrointheCloud/Cyber-Autopsy)** 
+
  ### Practical Applications & Integration
 * **[Alfa Anonimo](https://github.com/AstrointheCloud/alfa-anonimo)** — A custom Telegram integration platform designed to automate the sale and distribution of personal and community safety training courses across social media networks, featuring automated self-answers.
 
