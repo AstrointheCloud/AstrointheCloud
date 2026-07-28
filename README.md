@@ -1,7 +1,7 @@
 # Hey hey! I'm  Astro ✨
 
 
-I am an IT enthusiast on a mission to become an **AI Cloud Security Architect**  blending cybersecurity and cloud architecture.
+I am an IT enthusiast with a goal of becoming an **AI Cloud Security Architect**  blending cybersecurity and cloud architecture.
 ---
 
 ## The Mission Control (What I Do)
