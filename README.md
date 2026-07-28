@@ -36,7 +36,7 @@ I am an IT enthusiast with a goal of becoming an AI Cloud Security Architect. Tr
 *  **[Cloud Security with AWS IAM](https://github.com/AstrointheCloud/Cloud-Security-with-AWS-IAM)** — Managing identity, fine-grained access control, and least-privilege policies.
 
  ### Practical Applications & Integration
-* **[Alfa Anonimo](https://github.com/AstrointheCloud/Alfa-Anonimo)** — A custom Telegram integration platform designed to automate the sale and distribution of personal and community safety training courses across social media networks, featuring automated self-answers.
+* **[Alfa Anonimo](https://github.com/AstrointheCloud/alfa-anonimo)** — A custom Telegram integration platform designed to automate the sale and distribution of personal and community safety training courses across social media networks, featuring automated self-answers.
 
 ### Creative & Development
 *  **[Retro-Game Rhapsody](https://github.com/AstrointheCloud/Retro-Game-Rhapsody)** — A creative fusion project blending software logic, gaming nostalgia, and dynamic experiences.
