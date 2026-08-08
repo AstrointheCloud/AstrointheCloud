@@ -1,4 +1,4 @@
-# Hey hey! I'm  Astro ✨
+# Hey hey! I'm  Sori ✨
 
 I am an IT enthusiast with a goal of becoming an AI Cloud Security Architect. Trying different things and blending cybersecurity and cloud architecture.
 ---
