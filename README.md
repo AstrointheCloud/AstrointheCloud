@@ -60,6 +60,6 @@ I am an IT enthusiast with a goal of becoming an AI Cloud Security Architect. Tr
 
 ## 📫 Connect with Me
 
- **Website:** [astrointhecloud.com](https://astrointhecloud.com)  
+ **Website:** [sorispace.com](https://sorispace.com)  
  **LinkedIn:** [Mariana Lugo](https://www.linkedin.com/in/mariana-lugo/)  
- **YouTube:** [Astro in the Cloud](https://www.youtube.com/c/UCMQBfATay1aPPiOZct3Ukjg)
+ **YouTube:** [Astro in the Cloud](https://www.youtube.com)
